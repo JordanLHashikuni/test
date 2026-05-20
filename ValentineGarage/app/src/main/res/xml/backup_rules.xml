@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Auto Backup rules (Android 12+ / targetSdk 31+).
+    Referenced by android:fullBackupContent in AndroidManifest.xml.
+
+    We exclude the Room database and any shared preferences that may
+    cache Firebase tokens or session data, so a device restore does
+    not replay stale credentials.
+-->
+<full-backup-content>
+    <!-- Exclude Room databases -->
+    <exclude domain="database" path="." />
+
+    <!-- Exclude all shared preferences (may contain cached auth state) -->
+    <exclude domain="sharedpref" path="." />
+
+    <!-- Exclude internal cache (temp files, camera captures) -->
+    <exclude domain="cache" path="." />
+    <exclude domain="external-cache" path="." />
+</full-backup-content>

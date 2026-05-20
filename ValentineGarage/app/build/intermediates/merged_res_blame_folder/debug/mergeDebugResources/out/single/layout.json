@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/fragment_job_detail.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/fragment_job_detail.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/fragment_reports.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/fragment_reports.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/fragment_job_list.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/fragment_job_list.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/fragment_login.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/item_job.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/item_job.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/fragment_check_in.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/fragment_check_in.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/item_task.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/item_task.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/activity_main.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-mergeDebugResources-63:/layout/item_report_task.xml",
+        "source": "com.valentinesgarage.app-main-66:/layout/item_report_task.xml"
+    }
+]

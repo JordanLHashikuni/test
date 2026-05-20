@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Valentine\'s Garage</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="check_in_truck">Check In Truck</string>
+    <string name="registration_number">Registration Number</string>
+    <string name="kilometer_reading">Kilometer Reading</string>
+    <string name="condition_notes">Condition Notes</string>
+    <string name="submit">Submit</string>
+    <string name="jobs">Jobs</string>
+    <string name="reports">Reports</string>
+    <string name="add_task">Add Task</string>
+    <string name="task_description">Task Description</string>
+    <string name="mark_done">Mark Done</string>
+    <string name="notes">Notes</string>
+    <string name="logout">Logout</string>
+    <string name="no_jobs">No active jobs</string>
+    <string name="loading">Loading...</string>
+</resources>
