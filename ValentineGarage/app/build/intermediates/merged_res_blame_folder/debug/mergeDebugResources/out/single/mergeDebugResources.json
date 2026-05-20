@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_item_report_task.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\item_report_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_fragment_login.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_fragment_job_detail.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\fragment_job_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_fragment_check_in.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\fragment_check_in.xml"
+    },
+    {
+        "merged": "com.valentinesgarage.app-debug-64:/menu_menu_jobs.xml.flat",
+        "source": "com.valentinesgarage.app-main-66:/menu/menu_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\menu_menu_jobs.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\menu\\menu_jobs.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_item_job.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\item_job.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_fragment_reports.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\fragment_reports.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_item_task.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\layout_fragment_job_list.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\layout\\fragment_job_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-debug-64:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\HI OWNER\\.gradle\\daemon\\8.9\\com.valentinesgarage.app-main-66:\\drawable\\ic_launcher_foreground.xml"
+    }
+]

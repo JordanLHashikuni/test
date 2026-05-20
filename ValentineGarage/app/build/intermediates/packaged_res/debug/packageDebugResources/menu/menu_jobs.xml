@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+        android:visible="false" is intentional here.
+
+        onPrepareMenu() controls this item's visibility every time the menu
+        is drawn or invalidated. Starting hidden means mechanics never see
+        a flash of "Add Mechanic" before the Firestore role fetch completes.
+        For admins, onPrepareMenu() sets isVisible=true the moment the
+        StateFlow emits and invalidateOptionsMenu() fires — typically within
+        1-2 seconds of landing on the screen.
+
+        The item ID (action_add_mechanic) matches:
+          • the onMenuItemSelected() branch in JobListFragment
+          • the nav graph action (action_jobList_to_addMechanic)
+    -->
+    <item
+        android:id="@+id/action_add_mechanic"
+        android:title="Add Mechanic"
+        android:visible="false"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_logout"
+        android:title="Logout"
+        app:showAsAction="never" />
+
+</menu>

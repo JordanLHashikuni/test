@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/jobListFragment"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Jobs" />
+
+    <item
+        android:id="@+id/checkInFragment"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Check In" />
+
+    <!--
+        Always visible in XML. MainActivity hides this tab at runtime
+        for MECHANIC role users after fetching their role from Firestore.
+        Keeping it visible here ensures it shows immediately for ADMIN
+        without waiting for any async role fetch.
+    -->
+    <item
+        android:id="@+id/reportsFragment"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Reports" />
+
+</menu>
